@@ -1,0 +1,2 @@
+EMP00001,Shovan Mondal,Male,21,s@gmail.com,01764858673,Dhaka,7485962287,CHR,90000.0,D:\SuperShop\controllers\data\Photos\S.jpg
+

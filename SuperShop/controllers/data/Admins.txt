@@ -1,0 +1,1 @@
+ADM0002,Shovan Mondal,Male,22,shovan@gmail.com,01764858673,Dhaka,Krish,1910,Developer,D:\SuperShop\controllers\data\Photos\S.jpg

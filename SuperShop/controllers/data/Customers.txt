@@ -1,0 +1,1 @@
+CUS000001,Shovan,Male,21,s@gmail.com,01764858673,Dhaka,Krish,1910,Premium,D:\SuperShop\controllers\data\Photos\S.jpg
